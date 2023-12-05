@@ -1,0 +1,14 @@
+#sample_id   host_age   host_weight   host_height   sex   disease_state
+ERR5006180    25         70            170           Male  Ulcerative Colitis
+ERR5006196    30         65            160           Female  Ulcerative Colitis
+ERR5006201    22         80            180           Male  Ulcerative Colitis
+ERR5006204    35         72            165           Female  Ulcerative Colitis
+ERR5006205    28         68            175           Male  Ulcerative Colitis
+ERR5006208    32         75            172           Female  Ulcerative Colitis
+ERR5006211    26         78            168           Male  Ulcerative Colitis
+ERR5006212    29         71            173           Female  Ulcerative Colitis
+ERR5006214    31         73            167           Male  Ulcerative Colitis
+ERR5006216    27         69            178           Female  Ulcerative Colitis
+ERR5006231    33         74            166           Male  Ulcerative Colitis
+ERR5006232    24         67            176           Female  Ulcerative Colitis
+
