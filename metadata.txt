@@ -1,4 +1,4 @@
-sample_id	host_age	host_sex	host_weight
+sample-id	host_age	host_sex	host_weight
 ERR5006180	27	Male	78
 ERR5006196	19	Male	69
 ERR5006201	50	Female	105
